@@ -2,7 +2,7 @@
 Mi primer repositorio de GitHub
 
 Autor: Harrison Malagon
-
+Mi sugerencia es poner la fecha de Inicio del proyecto
 
 Dev1
 Documentacion DEV1 
